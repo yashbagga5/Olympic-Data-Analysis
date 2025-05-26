@@ -62,6 +62,9 @@ Ensure the following CSV files are in the project root:
 - Support for Paralympics data
 - User accounts with personalized dashboards
 
+ONLINE APPLICATION
+https://olympic-data-analysis-mjdbyzyxrgc4wpy6fwtmhc.streamlit.app/
+
 👨‍💻 Author
 - Yash Bagga
 - 📧 Email: yashbagga5@gmail.com
